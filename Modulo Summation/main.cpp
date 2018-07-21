@@ -15,6 +15,5 @@ int main()
    }
    int tmp=0;
 cout<< ret-n<<endl;
- 
     return 0;
 }
